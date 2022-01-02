@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="555" height="315" viewBox="0 0 555 315">
+  <defs>
+    <filter id="Rectangle_1" x="0" y="0" width="555" height="315" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="under" transform="translate(-465.5 -236.5)">
+    <g transform="matrix(1, 0, 0, 1, 465.5, 236.5)" filter="url(#Rectangle_1)">
+      <rect id="Rectangle_1-2" data-name="Rectangle 1" width="480" height="240" rx="8" transform="translate(37.5 27.5)" fill="#090909"/>
+    </g>
+    <path id="Rectangle_2" data-name="Rectangle 2" d="M8,0H472a8,8,0,0,1,8,8V40a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8A8,8,0,0,1,8,0Z" transform="translate(503 264)"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="6" cy="6" r="6" transform="translate(519 278)" fill="#ff5656"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="6" cy="6" r="6" transform="translate(539 278)" fill="#ffc756"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="6" cy="6" r="6" transform="translate(559 278)" fill="#56ff6c"/>
+    <text id="_include_iostream_using_namespace_std_int_main_cout_Website_Under_Construction_endl_return_SrichandDontha.com_" data-name="#include &lt;iostream&gt;
+
+using namespace std;
+
+int main(){
+    cout &lt;&lt; &quot;Website Under Construction!&quot; &lt;&lt; endl;
+    return SrichandDontha.com;
+}" transform="translate(551 349)" fill="#ff5656" font-size="14" font-family="Consolas"><tspan x="0" y="0">#include &lt;iostream&gt;</tspan><tspan fill="#dcdcdc"><tspan x="0" y="17"></tspan></tspan><tspan fill="#ffc756"><tspan x="0" y="34">using namespace </tspan><tspan y="34" fill="#ff5656">std;</tspan></tspan><tspan fill="#dcdcdc"><tspan x="0" y="51"></tspan></tspan><tspan fill="#ffc756"><tspan x="0" y="68">int </tspan><tspan y="68" fill="#ff5656">main(){</tspan></tspan><tspan fill="#dcdcdc"><tspan x="0" y="85" xml:space="preserve">    </tspan><tspan y="85" fill="#ff5656">cout &lt;&lt;</tspan><tspan y="85"> </tspan><tspan y="85" fill="#56ff6c">&quot;Website Under Construction!&quot;</tspan><tspan y="85"> </tspan><tspan y="85" fill="#ff5656">&lt;&lt;</tspan><tspan y="85"> </tspan><tspan y="85" fill="#ff5656">endl;</tspan><tspan x="0" y="102" xml:space="preserve">    </tspan><tspan y="102" fill="#ffc756">return </tspan><tspan y="102" fill="#56ff6c">SrichandDontha.com</tspan><tspan y="102" fill="#ff5656">;</tspan></tspan><tspan x="0" y="119">}</tspan></text>
+  </g>
+</svg>
